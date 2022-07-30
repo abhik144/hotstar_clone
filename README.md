@@ -1,2 +1,4 @@
-# hotstar_clone
-Created with CodeSandbox
+# hotstar
+Images-and videos
+Star to repo is appreciated.
+This repo only contain images and videos. 
